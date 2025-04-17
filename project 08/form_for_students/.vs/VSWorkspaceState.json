@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\packages",
+    "\\packages\\Newtonsoft.Json.13.0.3",
+    "\\packages\\Newtonsoft.Json.13.0.3\\lib",
+    "\\packages\\Newtonsoft.Json.13.0.3\\lib\\net20",
+    "\\packages\\Newtonsoft.Json.13.0.3\\lib\\net35",
+    "\\packages\\Newtonsoft.Json.13.0.3\\lib\\net6.0",
+    "\\packages\\Newtonsoft.Json.13.0.3\\lib\\netstandard1.0",
+    "\\packages\\Newtonsoft.Json.13.0.3\\lib\\netstandard1.3",
+    "\\packages\\Newtonsoft.Json.13.0.3\\lib\\netstandard2.0"
+  ],
+  "SelectedNode": "\\form_for_students\\form_for_students.sln",
+  "PreviewInSolutionExplorer": false
+}

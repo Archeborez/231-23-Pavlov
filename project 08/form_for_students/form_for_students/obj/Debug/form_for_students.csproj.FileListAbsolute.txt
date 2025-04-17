@@ -1,0 +1,39 @@
+C:\Users\User\source\repos\form_for_students\form_for_students\obj\Debug\form_for_students.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\form_for_students\form_for_students\obj\Debug\form_for_students.Form1.resources
+C:\Users\User\source\repos\form_for_students\form_for_students\obj\Debug\form_for_students.Properties.Resources.resources
+C:\Users\User\source\repos\form_for_students\form_for_students\obj\Debug\form_for_students.csproj.GenerateResource.cache
+C:\Users\User\source\repos\form_for_students\form_for_students\obj\Debug\form_for_students.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\form_for_students\form_for_students\bin\Debug\form_for_students.exe.config
+C:\Users\User\source\repos\form_for_students\form_for_students\bin\Debug\form_for_students.exe
+C:\Users\User\source\repos\form_for_students\form_for_students\bin\Debug\form_for_students.pdb
+C:\Users\User\source\repos\form_for_students\form_for_students\obj\Debug\form_for_students.exe
+C:\Users\User\source\repos\form_for_students\form_for_students\obj\Debug\form_for_students.pdb
+C:\Users\User\source\repos\form_for_students\form_for_students\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\form_for_students\form_for_students\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\form_for_students\form_for_students\obj\Debug\form_for.616D63A8.Up2Date
+E:\2 семест проекты\form_for_students\form_for_students\bin\Debug\form_for_students.exe.config
+E:\2 семест проекты\form_for_students\form_for_students\bin\Debug\form_for_students.exe
+E:\2 семест проекты\form_for_students\form_for_students\bin\Debug\form_for_students.pdb
+E:\2 семест проекты\form_for_students\form_for_students\bin\Debug\Newtonsoft.Json.dll
+E:\2 семест проекты\form_for_students\form_for_students\bin\Debug\Newtonsoft.Json.xml
+E:\2 семест проекты\form_for_students\form_for_students\obj\Debug\form_for_students.csproj.AssemblyReference.cache
+E:\2 семест проекты\form_for_students\form_for_students\obj\Debug\form_for_students.Form1.resources
+E:\2 семест проекты\form_for_students\form_for_students\obj\Debug\form_for_students.Properties.Resources.resources
+E:\2 семест проекты\form_for_students\form_for_students\obj\Debug\form_for_students.csproj.GenerateResource.cache
+E:\2 семест проекты\form_for_students\form_for_students\obj\Debug\form_for_students.csproj.CoreCompileInputs.cache
+E:\2 семест проекты\form_for_students\form_for_students\obj\Debug\form_for_students.csproj.CopyComplete
+E:\2 семест проекты\form_for_students\form_for_students\obj\Debug\form_for_students.exe
+E:\2 семест проекты\form_for_students\form_for_students\obj\Debug\form_for_students.pdb
+E:\2 семест проекты\project 08\form_for_students\form_for_students\bin\Debug\form_for_students.exe.config
+E:\2 семест проекты\project 08\form_for_students\form_for_students\bin\Debug\form_for_students.exe
+E:\2 семест проекты\project 08\form_for_students\form_for_students\bin\Debug\form_for_students.pdb
+E:\2 семест проекты\project 08\form_for_students\form_for_students\bin\Debug\Newtonsoft.Json.dll
+E:\2 семест проекты\project 08\form_for_students\form_for_students\bin\Debug\Newtonsoft.Json.xml
+E:\2 семест проекты\project 08\form_for_students\form_for_students\obj\Debug\form_for_students.csproj.AssemblyReference.cache
+E:\2 семест проекты\project 08\form_for_students\form_for_students\obj\Debug\form_for_students.Form1.resources
+E:\2 семест проекты\project 08\form_for_students\form_for_students\obj\Debug\form_for_students.Properties.Resources.resources
+E:\2 семест проекты\project 08\form_for_students\form_for_students\obj\Debug\form_for_students.csproj.GenerateResource.cache
+E:\2 семест проекты\project 08\form_for_students\form_for_students\obj\Debug\form_for_students.csproj.CoreCompileInputs.cache
+E:\2 семест проекты\project 08\form_for_students\form_for_students\obj\Debug\form_for_students.csproj.CopyComplete
+E:\2 семест проекты\project 08\form_for_students\form_for_students\obj\Debug\form_for_students.exe
+E:\2 семест проекты\project 08\form_for_students\form_for_students\obj\Debug\form_for_students.pdb
